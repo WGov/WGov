@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 登录[网站](xinb.tec)
-- 💼 欣然集团领袖
-- ```🏳️ 地区:欣国诺州
+- 💼 `欣然集团`领袖
+```🏳️ 地区:欣国诺州
 🏙 欣然区红素街道
 📍 XI欣然集团试管金字塔(放欣街道·西亚大街)```
 - 😄 Pronouns: ...
